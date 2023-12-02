@@ -23,6 +23,6 @@ jobs:
 
 
     - name: run python file
-      run: python send_email.py
+      run: python3 send_email.py
 
 
