@@ -23,6 +23,9 @@ jobs:
 
 
     - name: run python file
-      run: python3 send_email.py
+      run: |
+        dir
+        python3 send_email.py
+        dir
 
 
