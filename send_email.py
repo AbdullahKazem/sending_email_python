@@ -7,8 +7,8 @@ import smtplib
 def Send_Report_Email():
     File_Name =f'Benaa_Monthly_Report'
 
-    sender_email = 'tatbeekdb@gmail.com'
-    email_password = 'qnxkbbymrazxajkv'
+    sender_email = ''
+    email_password = ''
 
     bcc = "a.kzem@tatbeek.com"
 
